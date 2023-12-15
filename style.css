@@ -1,3 +1,38 @@
-body {
-
+body{
+  background-color: #B5D6D6;
 }
+u1{
+  text-align: center;
+  list-style-type: none;
+  position: left;
+}
+li a{
+  padding: 5px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #92AFD7;
+  background-color: #A28F9D;
+  border: solid;
+}
+li a:hover{
+  background-color: #646E68;
+}
+h1{
+  font-size: 400%;
+  letter-spacing: 3px;
+  color: #FF7477;
+  text-decoration: underline;
+  text-decoration-color: ##FF7477;
+  font-family: "Lucida Handwriting";
+}
+p{
+  font-size: 200%;
+  color: #E69597;
+}
+img{
+  width: 500px;
+  border-style: solid;
+  border-color: #CEB5B7;
+}
+
+
