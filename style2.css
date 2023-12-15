@@ -1,0 +1,19 @@
+body{
+  background-color: #B5D6D6;
+}
+h1{
+  font-size: 400%;
+  letter-spacing: 3px;
+  color: #FF7477;
+  text-decoration: underline;
+  text-decoration-color: ##FF7477;
+  font-family: "Papyrus";
+}
+img{
+  width: 600px;
+  border-style: solid;
+  border-color: #CEB5B7;
+}
+p2{
+  color: #9C89B8;
+}
