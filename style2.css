@@ -18,6 +18,12 @@ p2{
   color: #9C89B8;
 }
 
+u1{
+  text-align: center;
+  list-style-type: none;
+  position: left;
+}
+
 li a{
   padding: 5px;
   text-decoration: none;
