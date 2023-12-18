@@ -30,3 +30,15 @@ img{
 iframe{
   
 }
+
+li a{
+  padding: 5px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #92AFD7;
+  background-color: #A28F9D;
+  border: solid;
+}
+li a:hover{
+  background-color: #646E68;
+}
