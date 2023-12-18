@@ -31,6 +31,12 @@ iframe{
   
 }
 
+u1{
+  text-align: center;
+  list-style-type: none;
+  position: left;
+}
+
 li a{
   padding: 5px;
   text-decoration: none;
